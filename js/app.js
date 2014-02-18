@@ -50,7 +50,7 @@ angular.module('myApp', [])
             //Kick off the update function
             updateTime();
             $scope.weather = {};
-            Weather.getWeatherForecast("CA/San_Francisco")
+            Weather.getWeatherForecast("Perm")
                     .then(function(data){
                         $scope.weather.forecast =data;
                     });
