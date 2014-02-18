@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 18, 2014, 7:04:17 PM
+    Author     : Paul
+*/
+#datetime{
+    text-align: center;
+}
+#datetime h1{
+    font-size: 6.1em;
+}
+#datetime h2{
+    font-size: 1.0em;
+}
